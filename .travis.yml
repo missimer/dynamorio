@@ -42,6 +42,7 @@ notifications:
 branches:
   only:
   - master
+  - tmp
 
 # We use Xenial.
 sudo: required
